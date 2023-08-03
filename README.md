@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 my name is AbdulAzeez, an heallthcare Data Analyst and I am looking to transition into Data/Analytical Engineering later.
 <!--
 **Adesina-AnalyticalEngineer/Adesina-AnalyticalEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
