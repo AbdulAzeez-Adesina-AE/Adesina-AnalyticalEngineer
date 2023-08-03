@@ -1,4 +1,4 @@
-# Abdulazeez - Data/Analytical Engineer
+# AbdulAzeez - Data Analyst / Analytical Engineer
 
 ## Introduction
 
@@ -15,7 +15,7 @@ I am a dedicated and detail-oriented data professional, experienced in handling 
 
 ## Let's Connect!
 
-If you're interested in collaborating on projects or discussing anything related to data and analytics, feel free to connect with me on [LinkedIn](www.linkedin.com/in/abdulazeezz) 
+If you're interested in collaborating on projects or discussing anything related to data and analytics, feel free to connect with me on [LinkedIn](www.linkedin.com/in/abdulazeezz/) 
 
 I'm always excited to learn and grow together in the world of data!
 
